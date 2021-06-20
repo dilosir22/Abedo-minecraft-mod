@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+      "all": "d22abo:blocks/granite_bricks"
+  }
+}

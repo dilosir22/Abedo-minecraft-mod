@@ -1,0 +1,17 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+issueTrackerURL="http://my.issue.tracker/"
+
+[[mods]]
+modId="d22abo"
+version="1.0"
+displayName="Abedo"
+updateJSONURL="http://myurl.me/"
+displayURL="http://example.com/"
+logoFile="examplemod.png"
+credits="Thanks for this example mod goes to Java"
+authors="Me"
+description='''
+Some things
+'''
